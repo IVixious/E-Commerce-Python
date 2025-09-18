@@ -1,0 +1,121 @@
+[
+    {
+        "id": "B01",
+        "name": "Americano",
+        "type": "Beverage",
+        "details": "Hot/Cold",
+        "price": 8.0
+    },
+    {
+        "id": "B02",
+        "name": "Cafe Latte",
+        "type": "Beverage",
+        "details": "Hot/Cold",
+        "price": 10.0
+    },
+    {
+        "id": "B03",
+        "name": "Cappuccino",
+        "type": "Beverage",
+        "details": "Hot/Cold",
+        "price": 9.0
+    },
+    {
+        "id": "B04",
+        "name": "Coconut Latte",
+        "type": "Beverage",
+        "details": "Hot/Cold",
+        "price": 10.0
+    },
+    {
+        "id": "B05",
+        "name": "Flat White",
+        "type": "Beverage",
+        "details": "Hot/Cold",
+        "price": 9.0
+    },
+    {
+        "id": "B06",
+        "name": "Matcha Latte",
+        "type": "Beverage",
+        "details": "Hot/Cold",
+        "price": 12.0
+    },
+    {
+        "id": "B07",
+        "name": "Chocolate",
+        "type": "Beverage",
+        "details": "Hot/Cold",
+        "price": 12.0
+    },
+    {
+        "id": "F01",
+        "name": "Pasta",
+        "type": "Food",
+        "details": "Tomato Sauce/Carbonara",
+        "price": 15.0
+    },
+    {
+        "id": "F02",
+        "name": "Mac & Cheese",
+        "type": "Food",
+        "details": "",
+        "price": 13.0
+    },
+    {
+        "id": "F03",
+        "name": "Signature Curry Puff",
+        "type": "Food",
+        "details": "",
+        "price": 13.0
+    },
+    {
+        "id": "P01",
+        "name": "Red Velvet Cake",
+        "type": "Pastry",
+        "details": "",
+        "price": 9.0
+    },
+    {
+        "id": "P02",
+        "name": "Carrot Cake",
+        "type": "Pastry",
+        "details": "",
+        "price": 9.0
+    },
+    {
+        "id": "P03",
+        "name": "Blueberry Cream Cheese Bagel",
+        "type": "Pastry",
+        "details": "",
+        "price": 8.0
+    },
+    {
+        "id": "P04",
+        "name": "Raspberry Bagel",
+        "type": "Pastry",
+        "details": "",
+        "price": 7.0
+    },
+    {
+        "id": "P05",
+        "name": "Chocolate Banana Muffin",
+        "type": "Pastry",
+        "details": "",
+        "price": 5.0
+    },
+    {
+        "id": "P06",
+        "name": "Oat Cookie",
+        "type": "Pastry",
+        "details": "",
+        "price": 3.0
+    },
+    {
+        "id": "P07",
+        "name": "Waffle",
+        "type": "Pastry",
+        "details": "Strawberry / Chocolate",
+        "price": 9.9
+    }
+]
