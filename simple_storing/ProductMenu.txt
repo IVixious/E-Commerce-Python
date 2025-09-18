@@ -1,0 +1,19 @@
+B01 | Americano  | Beverage | Hot/Cold | RM8
+B02 | Cafe Latte | Beverage | Hot/Cold | RM10
+B03 | Cappuccino | Beverage | Hot/Cold | RM9
+B04 | Coconut Latte | Beverage | Hot/Cold | RM10
+B05 | Flat White | Beverage| Hot/Cold | RM9
+B06 | Matcha Latte | Beverage | Hot/Cold | RM12.00
+B07 | Chocolate | Beverage | Hot/Cold | RM12
+
+F01 | Pasta | Food | Tomato Sauce/Carbonara | RM15.00
+F02 | Mac & Cheese | Food | RM13
+F03 | Signature Curry Puff | Food | RM13
+
+P01 | Red Velvet Cake | Pastry | RM9
+P02 | Carrot Cake  | Pastry | RM9
+P03 | Blueberry Cream Cheese Bagel | Pastry | RM8
+P04 | Raspberry Bagel | Pastry | RM7
+P05 | Chocolate Banana Muffin | Pastry | RM5
+P06 | Oat Cookie | Pastry | RM3
+
