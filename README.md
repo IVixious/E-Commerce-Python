@@ -1,4 +1,4 @@
-Coffee House Management System ☕🍴 Python Project  
+# Coffee House Management System ☕🍴 Python Project  
 This project is a **Restaurant Management System** designed with clear assumptions and role-based access control.  
 It incorporates **modular programming principles** in Python and is built to simplify restaurant operations,  
 drawing inspiration from real-world coffee house workflows.  
